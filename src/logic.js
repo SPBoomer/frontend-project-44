@@ -1,5 +1,7 @@
 import greeting from './cli.js';
 
+greeting();
+
 const name = greeting();
 let correctCount = 0;
 
